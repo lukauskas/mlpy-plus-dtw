@@ -98,7 +98,7 @@ Partial Least Squares (PLS)
 .. autoclass:: PLS
    :members:
 
-Last Angle Regression (LARS)
+Least Angle Regression (LARS)
 ----------------------------
 
 .. autofunction:: lars_base
